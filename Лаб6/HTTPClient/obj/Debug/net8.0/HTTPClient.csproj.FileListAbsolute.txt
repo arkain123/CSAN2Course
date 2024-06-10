@@ -1,0 +1,14 @@
+E:\BNTU\2курс\КСИС\HTTPClient\bin\Debug\net8.0\HTTPClient.exe
+E:\BNTU\2курс\КСИС\HTTPClient\bin\Debug\net8.0\HTTPClient.deps.json
+E:\BNTU\2курс\КСИС\HTTPClient\bin\Debug\net8.0\HTTPClient.runtimeconfig.json
+E:\BNTU\2курс\КСИС\HTTPClient\bin\Debug\net8.0\HTTPClient.dll
+E:\BNTU\2курс\КСИС\HTTPClient\bin\Debug\net8.0\HTTPClient.pdb
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.AssemblyInfoInputs.cache
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.AssemblyInfo.cs
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.dll
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\refint\HTTPClient.dll
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.pdb
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\HTTPClient.genruntimeconfig.cache
+E:\BNTU\2курс\КСИС\HTTPClient\obj\Debug\net8.0\ref\HTTPClient.dll

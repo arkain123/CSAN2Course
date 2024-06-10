@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\bin\Debug\Лаб3.exe.config
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\bin\Debug\Лаб3.exe
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\bin\Debug\Лаб3.pdb
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\obj\Debug\Лаб3.exe
+E:\BNTU\2курс\КСИС\Лаб3\Лаб3\obj\Debug\Лаб3.pdb

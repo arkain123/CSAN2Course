@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб4\Socket\bin\Debug\ServerTCP.exe.config
+E:\BNTU\2курс\КСИС\Лаб4\Socket\bin\Debug\ServerTCP.exe
+E:\BNTU\2курс\КСИС\Лаб4\Socket\bin\Debug\ServerTCP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\Socket\obj\Debug\Socket.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб4\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\Socket\obj\Debug\ServerTCP.exe
+E:\BNTU\2курс\КСИС\Лаб4\Socket\obj\Debug\ServerTCP.pdb

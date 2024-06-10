@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\bin\Debug\ClientUDP.exe.config
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\bin\Debug\ClientUDP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\bin\Debug\ClientUDP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\obj\Debug\ClientUDP.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\obj\Debug\ClientUDP.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\obj\Debug\ClientUDP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientUDP\obj\Debug\ClientUDP.pdb

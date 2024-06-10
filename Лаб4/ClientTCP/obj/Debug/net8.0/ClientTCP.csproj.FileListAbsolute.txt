@@ -1,0 +1,14 @@
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\bin\Debug\net8.0\ClientTCP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\bin\Debug\net8.0\ClientTCP.deps.json
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\bin\Debug\net8.0\ClientTCP.runtimeconfig.json
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\bin\Debug\net8.0\ClientTCP.dll
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\bin\Debug\net8.0\ClientTCP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.AssemblyInfoInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.AssemblyInfo.cs
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.dll
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\refint\ClientTCP.dll
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ClientTCP.genruntimeconfig.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientTCP\obj\Debug\net8.0\ref\ClientTCP.dll

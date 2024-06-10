@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\bin\Debug\ServerUDP.exe.config
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\bin\Debug\ServerUDP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\bin\Debug\ServerUDP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\obj\Debug\ServerUDP.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\obj\Debug\ServerUDP.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\obj\Debug\ServerUDP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ServerUDP\obj\Debug\ServerUDP.pdb

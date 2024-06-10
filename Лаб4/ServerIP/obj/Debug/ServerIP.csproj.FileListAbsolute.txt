@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\bin\Debug\ServerIP.exe.config
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\bin\Debug\ServerIP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\bin\Debug\ServerIP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\obj\Debug\ServerIP.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\obj\Debug\ServerIP.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\obj\Debug\ServerIP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ServerIP\obj\Debug\ServerIP.pdb

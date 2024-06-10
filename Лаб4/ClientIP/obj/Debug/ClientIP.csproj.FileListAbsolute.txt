@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\bin\Debug\ClientIP.exe.config
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\bin\Debug\ClientIP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\bin\Debug\ClientIP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\obj\Debug\ClientIP.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\obj\Debug\ClientIP.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\obj\Debug\ClientIP.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientIP\obj\Debug\ClientIP.pdb

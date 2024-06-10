@@ -1,0 +1,7 @@
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\bin\Debug\ClientPorts.exe.config
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\bin\Debug\ClientPorts.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\bin\Debug\ClientPorts.pdb
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\obj\Debug\ClientPorts.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\obj\Debug\ClientPorts.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\obj\Debug\ClientPorts.exe
+E:\BNTU\2курс\КСИС\Лаб4\ClientPorts\obj\Debug\ClientPorts.pdb

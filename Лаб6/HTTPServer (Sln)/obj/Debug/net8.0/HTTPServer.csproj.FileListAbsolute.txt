@@ -1,0 +1,14 @@
+E:\BNTU\2курс\КСИС\Lab6\bin\Debug\net8.0\HTTPServer.exe
+E:\BNTU\2курс\КСИС\Lab6\bin\Debug\net8.0\HTTPServer.deps.json
+E:\BNTU\2курс\КСИС\Lab6\bin\Debug\net8.0\HTTPServer.runtimeconfig.json
+E:\BNTU\2курс\КСИС\Lab6\bin\Debug\net8.0\HTTPServer.dll
+E:\BNTU\2курс\КСИС\Lab6\bin\Debug\net8.0\HTTPServer.pdb
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.AssemblyInfoInputs.cache
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.AssemblyInfo.cs
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.dll
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\refint\HTTPServer.dll
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.pdb
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\HTTPServer.genruntimeconfig.cache
+E:\BNTU\2курс\КСИС\Lab6\obj\Debug\net8.0\ref\HTTPServer.dll

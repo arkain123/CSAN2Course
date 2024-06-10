@@ -1,0 +1,14 @@
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\bin\Debug\net8.0\NewClientUDP.exe
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\bin\Debug\net8.0\NewClientUDP.deps.json
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\bin\Debug\net8.0\NewClientUDP.runtimeconfig.json
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\bin\Debug\net8.0\NewClientUDP.dll
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\bin\Debug\net8.0\NewClientUDP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.AssemblyInfoInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.AssemblyInfo.cs
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.dll
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\refint\NewClientUDP.dll
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.pdb
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\NewClientUDP.genruntimeconfig.cache
+E:\BNTU\2курс\КСИС\Лаб4\NewClientUDP\obj\Debug\net8.0\ref\NewClientUDP.dll
